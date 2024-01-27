@@ -16,3 +16,5 @@ Link - https://youtu.be/6wAKUqzgOms
 🚨 Day 5 : NLP Stage 1 Tutorials - Types of NLP Algorithms Explained along with Why NLP for LLM?
 Link - https://youtu.be/CBtHgX-DHwk
 
+🚨 Day 6 : NLP Stage 2 Tutorials - Stemming to Named Entity Recognition Explained with Python
+Link - [https://youtu.be/CBtHgX-DHwk](https://youtu.be/xNsTA3r8bRE)https://youtu.be/xNsTA3r8bRE
