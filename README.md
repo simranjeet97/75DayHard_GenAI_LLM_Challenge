@@ -17,4 +17,4 @@ Link - https://youtu.be/6wAKUqzgOms
 Link - https://youtu.be/CBtHgX-DHwk
 
 🚨 Day 6 : NLP Stage 2 Tutorials - Stemming to Named Entity Recognition Explained with Python
-Link - [https://youtu.be/CBtHgX-DHwk](https://youtu.be/xNsTA3r8bRE)https://youtu.be/xNsTA3r8bRE
+Link - https://youtu.be/xNsTA3r8bRE
