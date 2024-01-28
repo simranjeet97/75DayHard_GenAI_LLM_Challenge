@@ -1,0 +1,5 @@
+matplotlib==3.8.2
+matplotlib-inline==0.1.6
+nltk==3.8.1
+numpy==1.26.3
+tensorflow==2.15.0
