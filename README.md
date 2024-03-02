@@ -52,6 +52,8 @@ Link - https://youtu.be/dWnJMp-4db8
 🚨 Day 17: LLM Fine Tuning Techniques Explained
 Link - https://lnkd.in/dW-RTe4j
 
+Text to Image Coming Soon
+
 🚨 Day 18: 🗳️ Why use Masking while Fine-Tuning LLM?
 Link - https://lnkd.in/dy3zWegT
 
