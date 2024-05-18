@@ -13,11 +13,11 @@ In addition to the learning, I documented my progress by creating videos and sha
 4. Building or Maintaining High Precision LLM at your local system is quite expensive so Quantization is best here to reduce the Size of LLM.
 5. LLM Evaluation is crucial thing, if your LLM does not get validated for all the metrics of langauge model evaluation, it might create chaos among users.
 
-👨‍💻 Complete Source Code of all 75 Day Hard 
-🌀 GitHub - https://lnkd.in/diehTu44
-🔀 Kaggle Notebook - https://lnkd.in/daSegm7N
+- 👨‍💻 Complete Source Code of all 75 Day Hard 
+- 🌀 GitHub - https://lnkd.in/diehTu44
+- 🔀 Kaggle Notebook - https://lnkd.in/daSegm7N
 
-🆓Learn GenAI for Free [Free Courses and Study Material with Daily Updates and Learning’s Uploaded] Join Telegram 🚀 - https://t.me/freebirdscrew
+🆓 Learn GenAI for Free [Free Courses and Study Material with Daily Updates and Learning’s Uploaded] Join Telegram 🚀 - https://t.me/freebirdscrew
 
 ⏰ Get Started with GenAI for Free [ Day 1 to Day75] - https://lnkd.in/dpCpTXUz
 
